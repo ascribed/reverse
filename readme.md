@@ -39,6 +39,11 @@ could help to encode the protocol.
 
 ## list
 
+### organization
+
+- [Link to ascribe archeologist Discord](https://discord.gg/WJjXvaj5Ya)
+
+### reverse engineering the SPOOL
 - [Original file that was once registered as a
   piece](https://drive.google.com/file/d/1s-hz0GpMOGuzKvj-bL2YX8Mp4MW5zWoQ/view)
 - [Original JSON /pieces/ response from the old ascribe.io
