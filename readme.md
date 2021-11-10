@@ -43,6 +43,10 @@ could help to encode the protocol.
 
 - [Link to ascribe archeologist Discord](https://discord.gg/WJjXvaj5Ya)
 
+### historical context
+
+- [ascribe for NFT Archaeologists](https://medium.com/@trentmc0?p=17ca5481d206)
+
 ### reverse engineering the SPOOL
 - [Original file that was once registered as a
   piece](https://drive.google.com/file/d/1s-hz0GpMOGuzKvj-bL2YX8Mp4MW5zWoQ/view)
